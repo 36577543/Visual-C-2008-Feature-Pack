@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{fc0917c5-61b7-4532-96a0-f0bd2a75606c}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;rc;def;r;odl;idl;hpj;bat</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{3e02e276-1e03-4ef5-81a1-d1134ed12967}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{77467e01-bce3-4060-8e60-e673c23a307a}</UniqueIdentifier>
+      <Extensions>ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe</Extensions>
+    </Filter>
+    <Filter Include="Resource Files\Code">
+      <UniqueIdentifier>{802e4679-5b15-4907-a683-ae4aa2606eb7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="MainFrm.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="OutputBar.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RibbonGadgets.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RibbonGadgetsDoc.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RibbonGadgetsView.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="StdAfx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="RibbonGadgets.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MainFrm.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="OutputBar.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RibbonGadgets.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RibbonGadgetsDoc.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RibbonGadgetsView.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="StdAfx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\CategoryLarge_1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\CategoryLarge_2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\CategoryLarge_3.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\CategoryLarge_6.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\CategorySmall_1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\CategorySmall_2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\CategorySmall_3.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\CategorySmall_4.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\CategorySmall_5.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\CategorySmall_6.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\code.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\filelarge.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\filesmall.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\icons.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\main.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Palette1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Palette2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\RibbonGadgets.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\RibbonGadgetsDoc.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\toolbar.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\RibbonGadgets.rc2">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ReadMe.htm" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="res\Code\src1_1.txt">
+      <Filter>Resource Files\Code</Filter>
+    </Text>
+    <Text Include="res\Code\src1_2.txt">
+      <Filter>Resource Files\Code</Filter>
+    </Text>
+    <Text Include="res\Code\src1_3.txt">
+      <Filter>Resource Files\Code</Filter>
+    </Text>
+    <Text Include="res\Code\src2_1.txt">
+      <Filter>Resource Files\Code</Filter>
+    </Text>
+    <Text Include="res\Code\src2_2.txt">
+      <Filter>Resource Files\Code</Filter>
+    </Text>
+    <Text Include="res\Code\src3_1.txt">
+      <Filter>Resource Files\Code</Filter>
+    </Text>
+    <Text Include="res\Code\src3_2.txt">
+      <Filter>Resource Files\Code</Filter>
+    </Text>
+    <Text Include="res\Code\src3_3.txt">
+      <Filter>Resource Files\Code</Filter>
+    </Text>
+    <Text Include="res\Code\src3_4.txt">
+      <Filter>Resource Files\Code</Filter>
+    </Text>
+    <Text Include="res\Code\src4_1.txt">
+      <Filter>Resource Files\Code</Filter>
+    </Text>
+    <Text Include="res\Code\src4_2.txt">
+      <Filter>Resource Files\Code</Filter>
+    </Text>
+    <Text Include="res\Code\src5_1.txt">
+      <Filter>Resource Files\Code</Filter>
+    </Text>
+    <Text Include="res\Code\src5_2.txt">
+      <Filter>Resource Files\Code</Filter>
+    </Text>
+    <Text Include="res\Code\src5_3.txt">
+      <Filter>Resource Files\Code</Filter>
+    </Text>
+    <Text Include="res\Code\src6_1.txt">
+      <Filter>Resource Files\Code</Filter>
+    </Text>
+    <Text Include="res\Code\src6_2.txt">
+      <Filter>Resource Files\Code</Filter>
+    </Text>
+    <Text Include="res\Code\src6_3.txt">
+      <Filter>Resource Files\Code</Filter>
+    </Text>
+    <Text Include="res\Code\src6_4.txt">
+      <Filter>Resource Files\Code</Filter>
+    </Text>
+    <Text Include="res\Code\src6_5.txt">
+      <Filter>Resource Files\Code</Filter>
+    </Text>
+  </ItemGroup>
+</Project>
